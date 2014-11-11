@@ -1,13 +1,14 @@
 1. Launch the VM
        vagrant up
 
-2. From a graphical terminal window (e.g., xterm) establish an SSH connection to the VM, tunnel the X
-   display:
+2. From a graphical terminal window (e.g., xterm) establish an SSH connection to the VM,
+   tunnel the X display:
        ssh -Xp2222 jmeter@localhost
-   The password is "jmeter".  You may need to delete any existing entry for localhost:2222 in your
-   ~/.ssh/known_hosts file.
+   The password is "jmeter".  You may need to delete any existing entry for
+   localhost:2222 in your ~/.ssh/known_hosts file.
 
 3.  Launch JMeter
         apache-jmeter-2.11/bin/jmeter &
     
-4.  There is a test script for Scala (PreProd) saved as ~jmeter/GDT_preprod_info_001.jmx.
+4.  There is a test script for Scala (PreProd) saved as
+    ~jmeter/GDT_preprod_info_001.jmx.
