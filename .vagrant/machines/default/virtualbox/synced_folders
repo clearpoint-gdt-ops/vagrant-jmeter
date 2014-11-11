@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/cygwin/home/Warwick.Allen/jmeter/vagrant-jmeter","disabled":false},"/tmp/vagrant-puppet-3/manifests":{"owner":"root","guestpath":"/tmp/vagrant-puppet-3/manifests","hostpath":"C:/cygwin/home/Warwick.Allen/jmeter/vagrant-jmeter/manifests","disabled":false}}}
