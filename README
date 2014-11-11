@@ -10,3 +10,4 @@
 3.  Launch JMeter
         apache-jmeter-2.11/bin/jmeter &
     
+4.  There is a test script for Scala (PreProd) saved as ~jmeter/GDT_preprod_info_001.jmx.
